@@ -1,7 +1,7 @@
 # Projeto-Ricardo
 
 Descrição resumida:
-Aplicação de gabarito de provas, tal sistema deve auxiliar usuários na correção de
+Aplicação de gabarito de provas utilizando netbeans, tal sistema deve auxiliar usuários na correção de
 provas, oferecendo a funcionalidade de leitura e processamento de imagem para o
 processo de correção e geração de resultados.
 
